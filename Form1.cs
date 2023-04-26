@@ -65,7 +65,7 @@ namespace filtrar_input
 
         private void botao_visitar_git_Click(object sender, EventArgs e) 
         {
-            string url = "https://github.com/vbsx";
+            string url = "https://github.com/VBSX/filtrar_input";
             Process.Start(url);
         }
         private bool verify_if_have_input()
