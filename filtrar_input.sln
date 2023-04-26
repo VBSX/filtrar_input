@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filtrar_input", "filtrar_input.csproj", "{D3EACDD5-96A5-4D97-A1B8-41D18F68D604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3EACDD5-96A5-4D97-A1B8-41D18F68D604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EACDD5-96A5-4D97-A1B8-41D18F68D604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EACDD5-96A5-4D97-A1B8-41D18F68D604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EACDD5-96A5-4D97-A1B8-41D18F68D604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7396F8C6-3215-440E-B90D-B15D52152713}
+	EndGlobalSection
+EndGlobal
